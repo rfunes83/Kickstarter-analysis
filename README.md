@@ -37,7 +37,7 @@ The **Analysis** was performed by pregresively filtering the information listed 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
 
 - **There were two erros in the cancelled outcome since the line in the graph appears discontinued**
-- ** The failed and success outcomes match or meet in the month of December**
+- **The failed and success outcomes match or meet in the month of December**
 
 - What can you conclude about the Outcomes based on Goals?
 
